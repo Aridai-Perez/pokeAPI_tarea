@@ -46,3 +46,10 @@ body {
     box-shadow: rgba(0, 0, 0, 0.1) 0 4px 12px;
 }
 
+
+.names {
+    background-color:#0b0b13;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 25px;
+}
